@@ -1,8 +1,14 @@
 {
   "name": "netLore",
   "version": "0.0.1",
-  "repository":"https://github.com/iamezell/netlore",
+  "repository": "https://github.com/iamezell/netlore",
   "dependencies": {
-    "binary-parser": "^1.1.5"
+    "binary-parser": "^1.1.5",
+    "extend": "^3.0.0",
+    "minimist": "^1.2.0",
+    "mongoose": "^4.3.4"
+  },
+  "devDependencies": {
+    "underscore": "^1.8.3"
   }
 }
